@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MensajesPositivos</string>
+    <string name="LabelBotonSig">Random</string>
+    <string name="Sig">Siguiente</string>
+    <string name="Ant">Anterior</string>
+    <string name="NumDeFrase">Elige un num</string>
+    <string name="dia">dia</string>
+    <string name="noshe">noche</string>
+</resources>
