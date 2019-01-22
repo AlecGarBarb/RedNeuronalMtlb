@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editText;
     private static final String TAG = "POSITIVE";
     private int random = 1;
-    private int numeritomodificadorinutil = 9;
+    private int numeritomodificadorinutil = 9837;
 
     private ConstraintLayout constraintLayout;
 
